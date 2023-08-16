@@ -1,0 +1,24 @@
+.bg_img{
+
+    background-image: url(./images/bg1.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.bg_img1{
+
+    background-image: url(./images/bg2.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+#per-player{
+
+    text-align: center;
+}
+
+
+
+
